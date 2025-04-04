@@ -4,5 +4,5 @@ variable "ami_value" {
 }
 variable "instance_type_value" {
     description = "Provide instance type value"
-    type = string
+    type = "string"
 }
